@@ -8,5 +8,8 @@ drfProject와 reactproject에 각각 프론트 백을 분리해둠.<br>
 포스트 버튼을 눌러 데이터를 생성하고 겟버튼을 눌러 데이터를
 화면에 보이는 간단한 프로그램이다.
 <hr>
-python manage.py runserver <br>
-npm run
+
+```bash
+$ python manage.py runserver
+$ npm run
+```
